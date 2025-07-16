@@ -1,4 +1,4 @@
-// File: Expenditure.java
+// Expenditure.java
 import java.time.LocalDate;
 
 public class Expenditure {
@@ -26,7 +26,7 @@ public class Expenditure {
     public String getBankAccount() { return bankAccount; }
 }
 
-// File: Receipt.java
+ // Receipt.java
 import java.time.LocalDate;
 
 public class Receipt {
@@ -45,7 +45,7 @@ public class Receipt {
     public LocalDate getUploadDate() { return uploadDate; }
 }
 
-// File: ExpenditureManager.java
+ // ExpenditureManager.java
 import java.io.*;
 import java.time.LocalDate;
 import java.util.*;
@@ -109,7 +109,7 @@ public class ExpenditureManager {
     }
 }
 
-// File: ReceiptManager.java
+//  ReceiptManager.java
 import java.io.*;
 import java.util.*;
 
