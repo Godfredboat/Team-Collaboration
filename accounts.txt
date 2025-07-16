@@ -1,0 +1,5 @@
+420,Enchill,69.69
+69,Calbank,49.00
+11111111169,Ecobank,100.00
+555,Greenwitch,500.00
+21,Calbank,5.00
